@@ -1,0 +1,7 @@
+name = "xsepanta"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "e8357a6d412541518ab9ed82785dffe3"
